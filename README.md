@@ -1,7 +1,8 @@
 # Portafolio
 
-## Segundo commit.
+## Tercer commit.
 
-> Se agrega: Estructura basica de bootstrap.
+> Se agrega: Navbar basico, etiqueta footer.
+> Se agrega: carpeta img y 4 ejemplos .svg.
 
-`Se genera branch Develop`
+`Hay que pensar en el contenido`

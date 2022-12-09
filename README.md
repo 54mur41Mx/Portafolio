@@ -1,10 +1,7 @@
 # Portafolio
 
-## Primer commit, solo estructura.
+## Segundo commit.
 
-> Se agrega:
- * index.html
- * carpeta css
- * style.css
- * carpeta js
- * main.js
+> Se agrega: Estructura basica de bootstrap.
+
+`Se genera branch Develop`
